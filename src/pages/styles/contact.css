@@ -36,3 +36,33 @@
 	justify-content: flex-start;
 	align-items: center;
 }
+.contact-subtitle a {
+	color: #6c63ff; /* Purple color for links */
+	text-decoration: none; /* Remove underline */
+	font-weight: bold;
+	transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .contact-subtitle a:hover {
+	color: #4b47e2; /* Darker purple on hover */
+	transform: scale(1.05); /* Slight zoom effect on hover */
+  }
+  
+  .contact-socials a {
+	color: #ff7b00; /* Orange color for social media links */
+	margin-right: 15px; /* Space between icons */
+	font-size: 1.5rem; /* Slightly larger icons */
+	transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .contact-socials a:hover {
+	color: #cc6600; /* Darker orange on hover */
+	transform: scale(1.1); /* Zoom effect on hover */
+  }
+  
+  .contact-logo-container a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+  
