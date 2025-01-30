@@ -22,61 +22,60 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Dhatchina Moorthy from Thanjavur, designing and securing what’s next.",
+		title: "I’m Dhatchina Moorthy from Thanjavur, Software Engineer and Security Researcher.",
 		description:
 			"I've worked on a variety of projects in my collage days and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Bridging the gap between ideas and execution, always looking for new ways to improve and evolve.",
 		description:
 			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Netflix Clone",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"A Netflix clone built with React that fetches movie data from an API. Allows users to browse and search movies and shows.",
+			logo: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://vercel.com/dhatchus-projects/netflix-clone/BUzcD6cCdfhfic7bcLuXNWasMagH",
 		},
 
 		{
-			title: "Project 2",
+			title: "flask-auth app",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A Flask authentication app with user registration, login, and session management and secure password handling.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/dhatchu97/flask-auth",
 		},
 
 		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+			title: "CRUD Operations",
+			description: "A web app built with JavaScript and Google Firebase, allowing users to create, read, update, and delete data in real-time.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 4",
+			title: "Reactfolio",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A personal portfolio built with React to showcase my projects, skills, and experience. Includes interactive sections and dynamic content",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://reactfolio-mm4adn42b-dhatchus-projects.vercel.app/",
 		},
 
 		{
-			title: "Project 5",
+			title: "Weather App",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A weather app built with React that fetches real-time weather data based on user location. Displays temperature, humidity, and forecast information.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://weather-928baexpq-dhatchus-projects.vercel.app/",
 		},
 	],
 };

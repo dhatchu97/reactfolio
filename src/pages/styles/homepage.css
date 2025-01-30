@@ -1,4 +1,7 @@
 @import "../../data/styles.css";
+body{
+	overflow-x: hidden;
+}
 
 .homepage-logo-container {
 	display: flex;
